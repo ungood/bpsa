@@ -1,0 +1,1557 @@
+[
+  {
+    "name": "12th Ave. Square Park",
+    "url": "http://www.seattle.gov/parks/find/parks/12th-ave-square-park",
+    "address": "564 12th Ave., Seattle, WA  98122",
+    "map": "https://goo.gl/maps/hs6WfUT278y",
+    "amenities": []
+  },
+  {
+    "name": "12th West & West Howe Park",
+    "url": "http://www.seattle.gov/parks/find/parks/12th-west-and-west-howe-park",
+    "address": "1200 W Howe St, Seattle, WA 98119",
+    "map": "https://goo.gl/maps/7a4Q9UND7wG2",
+    "amenities": [
+      "Play Area"
+    ]
+  },
+  {
+    "name": "14th Avenue NW Boat Ramp",
+    "url": "http://www.seattle.gov/parks/find/parks/14th-avenue-nw-boat-ramp",
+    "address": "4400 14th Ave. NW, Seattle, WA  98107",
+    "map": "https://goo.gl/maps/zQ4jMR9BoWG2",
+    "amenities": [
+      "Motorized Boat Launches"
+    ]
+  },
+  {
+    "name": "3001 E Madison Park",
+    "url": "http://www.seattle.gov/parks/find/parks/3001-e-madison-park",
+    "address": "3001 E Madison St., Seattle, WA  98112",
+    "map": "https://goo.gl/maps/aUR7T1td2RG2",
+    "amenities": []
+  },
+  {
+    "name": "32nd Ave W Boat Launch",
+    "url": "http://www.seattle.gov/parks/find/parks/32nd-ave-w-boat-launch",
+    "address": "3000 32nd Ave W, Seattle, WA  98199",
+    "map": "https://goo.gl/maps/YF9b299nR8K2",
+    "amenities": []
+  },
+  {
+    "name": "6th Avenue NW Pocket Park",
+    "url": "http://www.seattle.gov/parks/find/parks/6th-avenue-nw-pocket-park",
+    "address": "606 NW 76th St., Seattle, WA  98117",
+    "map": "https://goo.gl/maps/xaMz7k4tT7N2",
+    "amenities": [
+      "Play Area"
+    ]
+  },
+  {
+    "name": "A. B. Ernst Park",
+    "url": "http://www.seattle.gov/parks/find/parks/a-b-ernst-park",
+    "address": "723 N 35th St., Seattle, WA  98103",
+    "map": "https://goo.gl/maps/2kMfjo2vquy",
+    "amenities": [
+      "Views",
+      "Art in the Park"
+    ]
+  },
+  {
+    "name": "Adams Street Boat Ramp",
+    "url": "http://www.seattle.gov/parks/find/parks/adams-street-boat-ramp",
+    "address": "Lake Washington Blvd. S & S Adams St., Seattle, WA  98118",
+    "map": "https://goo.gl/maps/4ph9sxH5XVP2",
+    "amenities": [
+      "Grills",
+      "Picnic Sites",
+      "Hand Carry Boat Launches"
+    ]
+  },
+  {
+    "name": "Albert Davis Park",
+    "url": "http://www.seattle.gov/parks/find/parks/albert-davis-park",
+    "address": "12526 27th Ave. NE, Seattle, WA  98125",
+    "map": "https://goo.gl/maps/g1c6yLzf3eN2",
+    "amenities": [
+      "Drinking fountains",
+      "Play Area",
+      "Art in the Park"
+    ]
+  },
+  {
+    "name": "Alice Ball Park",
+    "url": "http://www.seattle.gov/parks/find/parks/alice-ball-park",
+    "address": "8102 Greenwood Avenue N., Seattle, WA 98103",
+    "map": "https://goo.gl/FGaTVZ",
+    "amenities": []
+  },
+  {
+    "name": "Alki Beach Park",
+    "url": "http://www.seattle.gov/parks/find/parks/alki-beach-park",
+    "address": "1702 Alki Ave. SW, Seattle, WA  98116",
+    "map": "https://goo.gl/maps/bGNYgVGwvhv",
+    "amenities": [
+      "Art in the Park",
+      "Fire Pits",
+      "Restrooms",
+      "Grills",
+      "Drinking fountains",
+      "Views",
+      "Hand Carry Boat Launches"
+    ]
+  },
+  {
+    "name": "Alki Playground",
+    "url": "http://www.seattle.gov/parks/find/parks/alki-playground",
+    "address": "5817 SW Lander St., Seattle, WA  98116",
+    "map": "https://goo.gl/maps/pwQcsfervXR2",
+    "amenities": [
+      "Art in the Park",
+      "Soccer Fields",
+      "Picnic Sites",
+      "Tennis Courts",
+      "Basketball Courts",
+      "Restrooms",
+      "Play Area",
+      "Baseball/Softball Fields"
+    ]
+  },
+  {
+    "name": "Alvin Larkins Park",
+    "url": "http://www.seattle.gov/parks/find/parks/alvin-larkins-park",
+    "address": "1504 34TH Ave., Seattle, WA  98122",
+    "map": "https://goo.gl/maps/NYJ6UqKHw842",
+    "amenities": []
+  },
+  {
+    "name": "Amy Yee Tennis Center Park",
+    "url": "http://www.seattle.gov/parks/find/parks/amy-yee-tennis-center-park",
+    "address": "2000 Martin Luther King Jr Way S, Seattle, WA 98144",
+    "map": "https://goo.gl/maps/D6qxyYMBhHw",
+    "amenities": [
+      "Drinking fountains",
+      "Tennis Courts"
+    ]
+  },
+  {
+    "name": "Andover Place",
+    "url": "http://www.seattle.gov/parks/find/parks/andover-place",
+    "address": "4000 Beach Dr. SW, Seattle, WA  98116",
+    "map": "https://goo.gl/maps/Gm5WFBS89G12",
+    "amenities": [
+      "Views"
+    ]
+  },
+  {
+    "name": "Arroyos Natural Area",
+    "url": "http://www.seattle.gov/parks/find/parks/arroyos-natural-area",
+    "address": "4120 SW Arroyo Dr., Seattle, WA  98146",
+    "map": "https://goo.gl/maps/NvbvjVXJcB52",
+    "amenities": []
+  },
+  {
+    "name": "Atlantic City Boat Ramp",
+    "url": "http://www.seattle.gov/parks/find/parks/atlantic-city-boat-ramp",
+    "address": "8702 Seward Park Ave. S, Seattle, WA  98118",
+    "map": "https://goo.gl/maps/U3gePJ2M9aP2",
+    "amenities": [
+      "Motorized Boat Launches",
+      "Restrooms"
+    ]
+  },
+  {
+    "name": "Atlantic Street Park",
+    "url": "http://www.seattle.gov/parks/find/parks/atlantic-street-park",
+    "address": "1501 21st Ave. S, Seattle, WA  98144",
+    "map": "https://goo.gl/maps/F7ys8V3cR3o",
+    "amenities": [
+      "Play Area",
+      "Adult Fitness Equipment"
+    ]
+  },
+  {
+    "name": "B.F. Day Playground",
+    "url": "http://www.seattle.gov/parks/find/parks/bf-day-playground",
+    "address": "4020 Fremont Ave. N, Seattle, WA  98103",
+    "map": "https://goo.gl/maps/WXsSeqwzYrx",
+    "amenities": [
+      "Drinking fountains",
+      "Basketball Courts",
+      "Baseball/Softball Fields",
+      "Play Area",
+      "Soccer Fields"
+    ]
+  },
+  {
+    "name": "Bagley Viewpoint",
+    "url": "http://www.seattle.gov/parks/find/parks/bagley-viewpoint",
+    "address": "2548 Delmar Dr. E, Seattle, WA  98102",
+    "map": "https://goo.gl/maps/VYS2eeK3tNm",
+    "amenities": [
+      "Views"
+    ]
+  },
+  {
+    "name": "Baker Park on Crown Hill",
+    "url": "http://www.seattle.gov/parks/find/parks/baker-park-on-crown-hill",
+    "address": "8347 14th Ave. NW, Seattle, WA  98117",
+    "map": "https://goo.gl/maps/XJjdHyvDwmC2",
+    "amenities": [
+      "Play Area",
+      "Drinking fountains"
+    ]
+  },
+  {
+    "name": "Ballard Commons Park",
+    "url": "http://www.seattle.gov/parks/find/parks/ballard-commons-park",
+    "address": "5701 22nd Ave. NW, Seattle, WA  98107",
+    "map": "https://goo.gl/maps/scW5hv4JMcz",
+    "amenities": [
+      "Art in the Park",
+      "Skate Park",
+      "Drinking fountains",
+      "Spray Parks"
+    ]
+  },
+  {
+    "name": "Ballard Corners Park",
+    "url": "http://www.seattle.gov/parks/find/parks/ballard-corners-park",
+    "address": "1702 NW 62nd St., Seattle, WA  98107",
+    "map": "https://goo.gl/maps/wtUYWWF3Cyr",
+    "amenities": [
+      "Play Area"
+    ]
+  },
+  {
+    "name": "Ballard Playground",
+    "url": "http://www.seattle.gov/parks/find/parks/ballard-playground",
+    "address": "2644 NW 60th St., Seattle, WA  98107",
+    "map": "https://goo.gl/maps/mWPX89RsctD2",
+    "amenities": [
+      "Soccer Fields",
+      "Play Area",
+      "Art in the Park",
+      "Baseball/Softball Fields",
+      "Drinking fountains"
+    ]
+  },
+  {
+    "name": "Bar-S Playground",
+    "url": "http://www.seattle.gov/parks/find/parks/bar-s-playground",
+    "address": "6425 SW Admiral Way, Seattle, WA  98116",
+    "map": "https://goo.gl/maps/uxqgEBxGGG12",
+    "amenities": [
+      "Grills",
+      "Baseball/Softball Fields"
+    ]
+  },
+  {
+    "name": "Fritz Hedges Waterway Park",
+    "url": "http://www.seattle.gov/parks/find/parks/fritz-hedges-waterway-park",
+    "address": "1117 Northeast Boat Street, Seattle, WA 98105",
+    "map": "https://goo.gl/1dGurP",
+    "amenities": []
+  },
+  {
+    "name": "E.C. Hughes Playground",
+    "url": "http://www.seattle.gov/parks/find/parks/ec-hughes-playground",
+    "address": "2805 SW Holden St., Seattle, WA  98126",
+    "map": "https://goo.gl/maps/Xsf9FK2H1RC2",
+    "amenities": [
+      "Grills",
+      "Play Area",
+      "Baseball/Softball Fields",
+      "Wading Pools",
+      "Basketball Courts",
+      "Restrooms",
+      "Soccer Fields"
+    ]
+  },
+  {
+    "name": "East Duwamish Greenbelt",
+    "url": "http://www.seattle.gov/parks/find/parks/east-duwamish-greenbelt",
+    "address": "1827 11th Ave S, Seattle, WA 98134",
+    "map": "https://www.google.com/maps/place/1827+11th+Ave+S,+Seattle,+WA+98134/data=!4m2!3m1!1s0x54906a9ae9b8c99f:0xfbad0f2351c6d656?sa=X&ved=0ahUKEwjf36L037HWAhUhwVQKHUpEBecQ8gEIJzAA",
+    "amenities": []
+  },
+  {
+    "name": "East Montlake Park",
+    "url": "http://www.seattle.gov/parks/find/parks/east-montlake-park",
+    "address": "2802 E Park Drive East, Seattle, WA  98112",
+    "map": "https://goo.gl/maps/NHSMs9FxGCp",
+    "amenities": []
+  },
+  {
+    "name": "East Portal Viewpoint",
+    "url": "http://www.seattle.gov/parks/find/parks/east-portal-viewpoint",
+    "address": "1400 Lake Washington Blvd. S, Seattle, WA  98144",
+    "map": "/parks/find/parks?searchType=Name&filterTerm=x63721",
+    "amenities": [
+      "Views"
+    ]
+  },
+  {
+    "name": "East Queen Anne Playground",
+    "url": "http://www.seattle.gov/parks/find/parks/east-queen-anne-playground",
+    "address": "1912 Warren Ave. N, Seattle, WA  98109",
+    "map": "https://goo.gl/maps/ZVf85Rd5fzz",
+    "amenities": [
+      "Play Area",
+      "Restrooms",
+      "Drinking fountains",
+      "Soccer Fields",
+      "Baseball/Softball Fields",
+      "Wading Pools"
+    ]
+  },
+  {
+    "name": "Eastmont Place",
+    "url": "http://www.seattle.gov/parks/find/parks/eastmont-place",
+    "address": "2201 Westmont Way W, Seattle, WA  98199",
+    "map": "https://goo.gl/maps/rZx2mswZbtQ2",
+    "amenities": [
+      "Views"
+    ]
+  },
+  {
+    "name": "Eddie Vine Boat Ramp",
+    "url": "http://www.seattle.gov/parks/find/parks/eddie-vine-boat-ramp",
+    "address": "8001 Seaview Ave. NW, Seattle, WA  98117",
+    "map": "https://goo.gl/maps/Usai8LNuShz",
+    "amenities": []
+  },
+  {
+    "name": "Ella Bailey Park",
+    "url": "http://www.seattle.gov/parks/find/parks/ella-bailey-park",
+    "address": "2601 W Smith St., Seattle, WA  98199",
+    "map": "https://goo.gl/maps/cUhu5Qr7NoH2",
+    "amenities": [
+      "Grills",
+      "Play Area",
+      "Views",
+      "Drinking fountains"
+    ]
+  },
+  {
+    "name": "Emma Schmitz Memorial Overlook",
+    "url": "http://www.seattle.gov/parks/find/parks/emma-schmitz-memorial-overlook",
+    "address": "4503 Beach Dr. SW, Seattle, WA  98116",
+    "map": "https://goo.gl/maps/CDn9pYAojum",
+    "amenities": [
+      "Drinking fountains",
+      "Views"
+    ]
+  },
+  {
+    "name": "Endolyne Park",
+    "url": "http://www.seattle.gov/parks/find/parks/endolyne-park",
+    "address": "9827 49th Ave. SW, Seattle, WA  98116",
+    "map": "https://goo.gl/maps/UMcBCe9LFpk",
+    "amenities": []
+  },
+  {
+    "name": "Ercolini Park",
+    "url": "http://www.seattle.gov/parks/find/parks/ercolini-park",
+    "address": "4542 48th Ave. SW, Seattle, WA  98116",
+    "map": "https://goo.gl/maps/yJvEwPZ9V6v",
+    "amenities": [
+      "Play Area"
+    ]
+  },
+  {
+    "name": "Fairmount Playground",
+    "url": "http://www.seattle.gov/parks/find/parks/fairmount-playground",
+    "address": "5400 Fauntleroy Way SW, Seattle, WA  98136",
+    "map": "https://goo.gl/maps/z1VKiwEcL332",
+    "amenities": [
+      "Soccer Fields",
+      "Restrooms",
+      "Drinking fountains",
+      "Play Area",
+      "Baseball/Softball Fields"
+    ]
+  },
+  {
+    "name": "Fairview Park",
+    "url": "http://www.seattle.gov/parks/find/parks/fairview-park",
+    "address": "2900 Fairview Ave. E, Seattle, WA  98102",
+    "map": "https://goo.gl/maps/2oLHziNT6Ks",
+    "amenities": [
+      "Views",
+      "Hand Carry Boat Launches"
+    ]
+  },
+  {
+    "name": "Fairview Walkway",
+    "url": "http://www.seattle.gov/parks/find/parks/fairview-walkway",
+    "address": "1251 Fairview Ave. N, Seattle, WA  98109",
+    "map": "https://goo.gl/maps/9szEN9Jre5x",
+    "amenities": [
+      "Hand Carry Boat Launches"
+    ]
+  },
+  {
+    "name": "Fauntleroy Creek Ravine",
+    "url": "http://www.seattle.gov/parks/find/parks/fauntleroy-creek-ravine",
+    "address": "9102 Fauntleroy Way SW, Seattle, WA  98136",
+    "map": "https://goo.gl/maps/tsRuzuqpw812",
+    "amenities": [
+      "Art in the Park"
+    ]
+  },
+  {
+    "name": "Fauntleroy Park",
+    "url": "http://www.seattle.gov/parks/find/parks/fauntleroy-park",
+    "address": "3951 SW Barton St., Seattle, WA  98136",
+    "map": "https://goo.gl/maps/qiABkq28kpk",
+    "amenities": [
+      "Trails"
+    ]
+  },
+  {
+    "name": "Fauntleroy Place",
+    "url": "http://www.seattle.gov/parks/find/parks/fauntleroy-place",
+    "address": "4501 Fauntleroy Way SW, Seattle, WA  98126",
+    "map": "https://goo.gl/maps/koTTPvo69Wq",
+    "amenities": []
+  },
+  {
+    "name": "Ferdinand Street Boat Launch",
+    "url": "http://www.seattle.gov/parks/find/parks/ferdinand-street-boat-launch",
+    "address": "5018 Lake Washington Blvd. S, Seattle, WA  98118",
+    "map": "https://goo.gl/maps/9dd2n5p8WsF2",
+    "amenities": [
+      "Grills",
+      "Picnic Sites",
+      "Hand Carry Boat Launches"
+    ]
+  },
+  {
+    "name": "Firehouse Mini Park",
+    "url": "http://www.seattle.gov/parks/find/parks/firehouse-mini-park",
+    "address": "712 18th Ave., Seattle, WA  98122",
+    "map": "https://goo.gl/maps/dW1EuQBiJkL2",
+    "amenities": [
+      "Play Area",
+      "Drinking fountains"
+    ]
+  },
+  {
+    "name": "First Hill Park",
+    "url": "http://www.seattle.gov/parks/find/parks/first-hill-park",
+    "address": "1201 University St., Seattle, WA  98101",
+    "map": "https://goo.gl/maps/Def77KPKbKx",
+    "amenities": [
+      "Drinking fountains"
+    ]
+  },
+  {
+    "name": "Fletcher Place",
+    "url": "http://www.seattle.gov/parks/find/parks/fletcher-place",
+    "address": "9285 Waters Ave. S, Seattle, WA  98118",
+    "map": "https://goo.gl/maps/nUkzZdBgqq92",
+    "amenities": []
+  },
+  {
+    "name": "Flo Ware Park",
+    "url": "http://www.seattle.gov/parks/find/parks/flo-ware-park",
+    "address": "2800 S Jackson St., Seattle, WA  98144",
+    "map": "https://goo.gl/maps/vUWtFzJYe9t",
+    "amenities": [
+      "Basketball Courts",
+      "Play Area"
+    ]
+  },
+  {
+    "name": "Freeway Park",
+    "url": "http://www.seattle.gov/parks/find/parks/freeway-park",
+    "address": "700 Seneca St., Seattle, WA  98101",
+    "map": "https://goo.gl/maps/61j6A7qcG8v",
+    "amenities": [
+      "Art in the Park"
+    ]
+  },
+  {
+    "name": "Fremont Canal Park",
+    "url": "http://www.seattle.gov/parks/find/parks/fremont-canal-park",
+    "address": "199 N Canal St., Seattle, WA  98103",
+    "map": "https://goo.gl/maps/iarDoYBaz6v",
+    "amenities": [
+      "Art in the Park",
+      "Views"
+    ]
+  },
+  {
+    "name": "I-5 Colonnade",
+    "url": "http://www.seattle.gov/parks/find/parks/i-5-colonnade",
+    "address": "1701 Lakeview Blvd. E, Seattle, WA  98102",
+    "map": "https://goo.gl/maps/H6kbPsztJ7q",
+    "amenities": [
+      "Art in the Park",
+      "Dog Off Leash Areas",
+      "Views"
+    ]
+  },
+  {
+    "name": "Interbay Athletic Complex",
+    "url": "http://www.seattle.gov/parks/find/parks/interbay-athletic-complex",
+    "address": "3027 17th Ave. W, Seattle, WA  98119",
+    "map": "https://goo.gl/maps/jaBYXRs7xpF2",
+    "amenities": [
+      "Baseball/Softball Fields",
+      "Restrooms",
+      "Drinking fountains",
+      "Soccer Fields",
+      "Football Fields"
+    ]
+  },
+  {
+    "name": "Interlaken Park",
+    "url": "http://www.seattle.gov/parks/find/parks/interlaken-park",
+    "address": "2451 Delmar Dr. E, Seattle, WA  98102",
+    "map": "https://goo.gl/maps/Hrr2AyiohSz",
+    "amenities": [
+      "Trails"
+    ]
+  },
+  {
+    "name": "Inverness Ravine Park",
+    "url": "http://www.seattle.gov/parks/find/parks/inverness-ravine-park",
+    "address": "8619 45th Ave. NE, Seattle, WA  98115",
+    "map": "https://goo.gl/maps/hy9T9b96zyk",
+    "amenities": []
+  },
+  {
+    "name": "Japanese Garden",
+    "url": "http://www.seattle.gov/parks/find/parks/japanese-garden",
+    "address": "1075 Lake Washington Blvd. E, Seattle, WA  98112",
+    "map": "https://goo.gl/maps/wgaQycD7vkG2",
+    "amenities": [
+      "Restrooms"
+    ]
+  },
+  {
+    "name": "Jefferson Park",
+    "url": "http://www.seattle.gov/parks/find/parks/jefferson-park",
+    "address": "3801 Beacon Ave. S, Seattle, WA  98108",
+    "map": "https://goo.gl/maps/VSTmm55Groy",
+    "amenities": [
+      "Restrooms",
+      "Spray Parks",
+      "Picnic Sites",
+      "Soccer Fields",
+      "Art in the Park",
+      "Tennis Courts",
+      "Skate Park",
+      "Basketball Courts",
+      "Play Area",
+      "Drinking fountains",
+      "Views",
+      "Trails",
+      "Baseball/Softball Fields"
+    ]
+  },
+  {
+    "name": "Jimi Hendrix Park",
+    "url": "http://www.seattle.gov/parks/find/parks/jimi-hendrix-park",
+    "address": "2400 S Massachusetts St., Seattle, WA  98144",
+    "map": "https://goo.gl/maps/5sWLdnFo2B12",
+    "amenities": []
+  },
+  {
+    "name": "John C. Little, Sr. Park",
+    "url": "http://www.seattle.gov/parks/find/parks/john-c-little-sr-park",
+    "address": "6961 37th Ave. S, Seattle, WA  98118",
+    "map": "https://goo.gl/maps/3iQ1Z4THkGq",
+    "amenities": [
+      "Picnic Sites",
+      "Restrooms",
+      "Adult Fitness Equipment",
+      "Drinking fountains",
+      "Basketball Courts",
+      "Grills",
+      "Play Area",
+      "Spray Parks"
+    ]
+  },
+  {
+    "name": "Jose Rizal Park",
+    "url": "http://www.seattle.gov/parks/find/parks/jose-rizal-park",
+    "address": "1007 12th Ave. S, Seattle, WA  98144",
+    "map": "https://goo.gl/maps/xrDeJgcKo9H2",
+    "amenities": [
+      "Trails",
+      "Play Area",
+      "Picnic Sites",
+      "Dog Off Leash Areas",
+      "Grills",
+      "Views",
+      "Art in the Park",
+      "Drinking fountains",
+      "Restrooms"
+    ]
+  },
+  {
+    "name": "Judge Charles M. Stokes Overlook",
+    "url": "http://www.seattle.gov/parks/find/parks/judge-charles-m-stokes-overlook",
+    "address": "20th Ave. S & S Judkins St., Seattle, WA  98144",
+    "map": "https://goo.gl/maps/3nZQxFxzMWn",
+    "amenities": []
+  },
+  {
+    "name": "Judkins Park and Playfield",
+    "url": "http://www.seattle.gov/parks/find/parks/judkins-park-and-playfield",
+    "address": "2150 S Norman St., Seattle, WA  98144",
+    "map": "https://goo.gl/maps/8GDH6c6jQM82",
+    "amenities": [
+      "Soccer Fields",
+      "Skate Park",
+      "Basketball Courts",
+      "Picnic Sites",
+      "Restrooms",
+      "Spray Parks",
+      "Play Area",
+      "Tennis Courts",
+      "Football Fields",
+      "Baseball/Softball Fields"
+    ]
+  },
+  {
+    "name": "Julia Lee\u2019s Park",
+    "url": "http://www.seattle.gov/parks/find/parks/julia-lees-park",
+    "address": "2701 E. Harrison Street, Seattle WA 98112",
+    "map": "https://goo.gl/maps/dX7GvGWoofH2",
+    "amenities": []
+  },
+  {
+    "name": "Junction Plaza",
+    "url": "http://www.seattle.gov/parks/find/parks/junction-plaza",
+    "address": "4545 42nd Ave SW, Seattle, WA 98116",
+    "map": "https://goo.gl/maps/QKyefGsTAMn",
+    "amenities": []
+  },
+  {
+    "name": "Katie Black's Garden",
+    "url": "http://www.seattle.gov/parks/find/parks/katie-blacks-garden",
+    "address": "1150 Atlantic St., Seattle, WA  98134",
+    "map": "https://goo.gl/maps/8s9Xk2xr6Cw",
+    "amenities": [
+      "Gardens"
+    ]
+  },
+  {
+    "name": "Kerry Park",
+    "url": "http://www.seattle.gov/parks/find/parks/kerry-park",
+    "address": "211 W Highland Dr., Seattle, WA  98119",
+    "map": "https://goo.gl/maps/nPRQ1WvA8dG2",
+    "amenities": [
+      "Art in the Park",
+      "Basketball Courts",
+      "Views",
+      "Play Area",
+      "Drinking fountains"
+    ]
+  },
+  {
+    "name": "Keystone Place",
+    "url": "http://www.seattle.gov/parks/find/parks/keystone-place",
+    "address": "5664 Keystone Pl. N, Seattle, WA  98103",
+    "map": "https://goo.gl/maps/9rXsTz9V79L2",
+    "amenities": []
+  },
+  {
+    "name": "Kilbourne Park",
+    "url": "http://www.seattle.gov/parks/find/parks/kilbourne-park",
+    "address": "9131 California Ave. SW, Seattle, WA  98136",
+    "map": "https://goo.gl/maps/TREQLuSGXnR2",
+    "amenities": []
+  },
+  {
+    "name": "Kinnear Park",
+    "url": "http://www.seattle.gov/parks/find/parks/kinnear-park",
+    "address": "899 W Olympic Pl., Seattle, WA  98119",
+    "map": "https://goo.gl/maps/XFhaTaXu2Xy",
+    "amenities": [
+      "Restrooms",
+      "Drinking fountains",
+      "Tennis Courts",
+      "Dog Off Leash Areas",
+      "Views",
+      "Play Area",
+      "Trails"
+    ]
+  },
+  {
+    "name": "Kinnear Place",
+    "url": "http://www.seattle.gov/parks/find/parks/kinnear-place",
+    "address": "799 Queen Anne Ave N, Seattle, WA 98109",
+    "map": "https://goo.gl/maps/sStWpfVToxE2",
+    "amenities": []
+  },
+  {
+    "name": "Kirke Park",
+    "url": "http://www.seattle.gov/parks/find/parks/kirke-park",
+    "address": "7028 9th Ave. NW, Seattle, WA  98117",
+    "map": "https://goo.gl/maps/FmHJJ6nCbyB2",
+    "amenities": [
+      "Play Area"
+    ]
+  },
+  {
+    "name": "Kiwanis Memorial Preserve Park",
+    "url": "http://www.seattle.gov/parks/find/parks/kiwanis-memorial-preserve-park",
+    "address": "4441 Brygger Dr. W, Seattle, WA  98199",
+    "map": "https://goo.gl/maps/6CNSy57h8Wy",
+    "amenities": [
+      "Trails",
+      "Views"
+    ]
+  },
+  {
+    "name": "Kobe Terrace",
+    "url": "http://www.seattle.gov/parks/find/parks/kobe-terrace",
+    "address": "650 S Main St., Seattle, WA  98104",
+    "map": "https://goo.gl/maps/9RhgKKG827n",
+    "amenities": []
+  },
+  {
+    "name": "Kubota Garden",
+    "url": "http://www.seattle.gov/parks/find/parks/kubota-garden",
+    "address": "9817 55th Ave. S, Seattle, WA  98178",
+    "map": "https://goo.gl/maps/cfkQs4bymmt",
+    "amenities": [
+      "Gardens"
+    ]
+  },
+  {
+    "name": "Lake City Memorial Triangle",
+    "url": "http://www.seattle.gov/parks/find/parks/lake-city-memorial-triangle",
+    "address": "12354 Lake City Way NE, Seattle, WA  98125",
+    "map": "https://goo.gl/maps/UErgbxh7yVm",
+    "amenities": []
+  },
+  {
+    "name": "Lake City Mini Park",
+    "url": "http://www.seattle.gov/parks/find/parks/lake-city-mini-park",
+    "address": "12359 Lake City Way NE, Seattle, WA  98125",
+    "map": "https://goo.gl/maps/nJKSbJhY3kk",
+    "amenities": []
+  },
+  {
+    "name": "MacLean Park",
+    "url": "http://www.seattle.gov/parks/find/parks/maclean-park",
+    "address": "1922 Taylor Ave. N, Seattle, WA  98109",
+    "map": "https://goo.gl/maps/nvScgtigZ2R2",
+    "amenities": [
+      "Views"
+    ]
+  },
+  {
+    "name": "Madison Park",
+    "url": "http://www.seattle.gov/parks/find/parks/madison-park",
+    "address": "4201 E Madison St., Seattle, WA  98112",
+    "map": "https://goo.gl/maps/azfTgQDiTHx",
+    "amenities": [
+      "Views",
+      "Play Area",
+      "Tennis Courts",
+      "Swimming Beaches",
+      "Restrooms",
+      "Drinking fountains"
+    ]
+  },
+  {
+    "name": "Madison Park North Beach",
+    "url": "http://www.seattle.gov/parks/find/parks/madison-park-north-beach",
+    "address": "2300 43rd Ave. E, Seattle, WA  98112",
+    "map": "https://goo.gl/maps/EsAyWcYSeuA2",
+    "amenities": [
+      "Views",
+      "Play Area"
+    ]
+  },
+  {
+    "name": "Madrona Briar Patch",
+    "url": "http://www.seattle.gov/parks/find/parks/madrona-briar-patch",
+    "address": "1605 Madrona Dr., Seattle, WA  98122",
+    "map": "https://goo.gl/maps/f6GDyVs2MQH2",
+    "amenities": []
+  },
+  {
+    "name": "Madrona Park",
+    "url": "http://www.seattle.gov/parks/find/parks/madrona-park",
+    "address": "853 Lake Washington Blvd., Seattle, WA  98122",
+    "map": "https://goo.gl/maps/qzjmvrjaUZm",
+    "amenities": [
+      "Trails",
+      "Grills",
+      "Swimming Beaches",
+      "Restrooms",
+      "Play Area",
+      "Fishing piers",
+      "Picnic Sites",
+      "Views",
+      "Drinking fountains"
+    ]
+  },
+  {
+    "name": "Madrona Playground",
+    "url": "http://www.seattle.gov/parks/find/parks/madrona-playground",
+    "address": "3211 E Spring St., Seattle, WA  98122",
+    "map": "https://goo.gl/maps/mnDcn45MW6A2",
+    "amenities": [
+      "Soccer Fields",
+      "Drinking fountains",
+      "Restrooms",
+      "Tennis Courts",
+      "Play Area",
+      "Basketball Courts"
+    ]
+  },
+  {
+    "name": "Madrona Ravine",
+    "url": "http://www.seattle.gov/parks/find/parks/madrona-ravine",
+    "address": "3799 E Spring St., Seattle, WA  98122",
+    "map": "https://goo.gl/maps/mnyP9xQewEE2",
+    "amenities": []
+  },
+  {
+    "name": "Magnolia Boulevard",
+    "url": "http://www.seattle.gov/parks/find/parks/magnolia-boulevard",
+    "address": "W Emerson St to W Howe St",
+    "map": "https://goo.gl/maps/ntGA4utGdCS2",
+    "amenities": []
+  },
+  {
+    "name": "Magnolia Greenbelt",
+    "url": "http://www.seattle.gov/parks/find/parks/magnolia-greenbelt",
+    "address": "W Howe St. & Dartmouth Ave. W, Seattle, WA  98199",
+    "map": "https://goo.gl/maps/DzEwkMDQHz82",
+    "amenities": []
+  },
+  {
+    "name": "Magnolia Manor Park",
+    "url": "http://www.seattle.gov/parks/find/parks/magnolia-manor-park",
+    "address": "3500 28th Ave. W, Seattle, WA  98199",
+    "map": "https://goo.gl/maps/2i8dHS71mEP2",
+    "amenities": [
+      "Dog Off Leash Areas"
+    ]
+  },
+  {
+    "name": "Magnolia Park",
+    "url": "http://www.seattle.gov/parks/find/parks/magnolia-park",
+    "address": "1461 Magnolia Blvd. W, Seattle, WA  98199",
+    "map": "https://goo.gl/maps/fR3NspydxhC2",
+    "amenities": [
+      "Grills",
+      "Picnic Sites",
+      "Restrooms",
+      "Tennis Courts",
+      "Drinking fountains",
+      "Play Area",
+      "Views"
+    ]
+  },
+  {
+    "name": "Magnolia Playfield",
+    "url": "http://www.seattle.gov/parks/find/parks/magnolia-playfield",
+    "address": "2518 34th Ave. W, Seattle, WA  98199",
+    "map": "https://goo.gl/maps/MNUi9WmC3sC2",
+    "amenities": [
+      "Drinking fountains",
+      "Tennis Courts",
+      "Restrooms",
+      "Soccer Fields",
+      "Play Area",
+      "Baseball/Softball Fields"
+    ]
+  },
+  {
+    "name": "Magnolia Tidelands Park",
+    "url": "http://www.seattle.gov/parks/find/parks/magnolia-tidelands-park",
+    "address": "W Ruffner to Elliott Bay Marina, Seattle, WA  98144",
+    "map": "https://goo.gl/maps/y9kZv749X9z",
+    "amenities": []
+  },
+  {
+    "name": "Magnuson Park",
+    "url": "http://www.seattle.gov/parks/find/parks/magnuson-park",
+    "address": "7400 Sand Point Way NE, Seattle, WA  98115",
+    "map": "https://goo.gl/maps/1LN7RWKE59x",
+    "amenities": [
+      "Dog Off Leash Areas",
+      "Views",
+      "Hand Carry Boat Launches",
+      "Picnic Sites",
+      "Trails",
+      "Wading Pools",
+      "Motorized Boat Launches",
+      "Swimming Beaches",
+      "Art in the Park",
+      "Grills",
+      "Baseball/Softball Fields",
+      "Play Area",
+      "Drinking fountains",
+      "Tennis Courts",
+      "Soccer Fields",
+      "Restrooms"
+    ]
+  },
+  {
+    "name": "Maple Leaf Reservoir Park",
+    "url": "http://www.seattle.gov/parks/find/parks/maple-leaf-reservoir-park",
+    "address": "1020 NE 82nd St., Seattle, WA  98115",
+    "map": "https://goo.gl/maps/XeQjADnncgH2",
+    "amenities": [
+      "Restrooms",
+      "Baseball/Softball Fields",
+      "Soccer Fields",
+      "Art in the Park",
+      "Play Area"
+    ]
+  },
+  {
+    "name": "Maple School Ravine",
+    "url": "http://www.seattle.gov/parks/find/parks/maple-school-ravine",
+    "address": "1950 S Graham St., Seattle, WA  98108",
+    "map": "https://goo.gl/maps/3VegciqMSQn",
+    "amenities": []
+  },
+  {
+    "name": "Maple Wood Playfield",
+    "url": "http://www.seattle.gov/parks/find/parks/maple-wood-playfield",
+    "address": "4801 Corson Ave. S, Seattle, WA  98108",
+    "map": "https://goo.gl/maps/aQNfsNTGy9k",
+    "amenities": [
+      "Drinking fountains",
+      "Basketball Courts",
+      "Play Area",
+      "Baseball/Softball Fields",
+      "Soccer Fields",
+      "Restrooms"
+    ]
+  },
+  {
+    "name": "Marra-Desimone Park",
+    "url": "http://www.seattle.gov/parks/find/parks/marra-desimone-park",
+    "address": "9026 4th Ave. S, Seattle, WA  98108",
+    "map": "https://goo.gl/maps/5EXnUFjCnTy",
+    "amenities": []
+  },
+  {
+    "name": "Marshall Park",
+    "url": "http://www.seattle.gov/parks/find/parks/marshall-park",
+    "address": "1191 7th Ave. W, Seattle, WA  98119",
+    "map": "https://goo.gl/maps/4Awp4mhCmtG2",
+    "amenities": [
+      "Views",
+      "Art in the Park"
+    ]
+  },
+  {
+    "name": "Martha Washington Park",
+    "url": "http://www.seattle.gov/parks/find/parks/martha-washington-park",
+    "address": "6612 57th Ave. S, Seattle, WA  98118",
+    "map": "https://goo.gl/maps/4ktroB5mHHD2",
+    "amenities": [
+      "Hand Carry Boat Launches",
+      "Views",
+      "Trails"
+    ]
+  },
+  {
+    "name": "Martin Luther King Jr Memorial Park",
+    "url": "http://www.seattle.gov/parks/find/parks/martin-luther-king-jr-memorial-park",
+    "address": "2200 Martin Luther King Jr. Way S, Seattle, WA  98144",
+    "map": "https://goo.gl/maps/ifoNhmuTk3w",
+    "amenities": [
+      "Views",
+      "Art in the Park"
+    ]
+  },
+  {
+    "name": "Marvin's Garden",
+    "url": "http://www.seattle.gov/parks/find/parks/marvins-garden",
+    "address": "5400 Ballard Ave. NW, Seattle, WA  98107",
+    "map": "https://goo.gl/maps/W75R8xtGXqv",
+    "amenities": [
+      "Art in the Park"
+    ]
+  },
+  {
+    "name": "Matthews Beach Park",
+    "url": "http://www.seattle.gov/parks/find/parks/matthews-beach-park",
+    "address": "5100 NE 93rd St., Seattle, WA  98115",
+    "map": "https://goo.gl/maps/NiGjhJzw7Nn",
+    "amenities": [
+      "Views",
+      "Drinking fountains",
+      "Restrooms",
+      "Grills",
+      "Basketball Courts",
+      "Hand Carry Boat Launches",
+      "Play Area",
+      "Trails",
+      "Swimming Beaches",
+      "Picnic Sites"
+    ]
+  },
+  {
+    "name": "Mayfair Park",
+    "url": "http://www.seattle.gov/parks/find/parks/mayfair-park",
+    "address": "2600 2nd Ave. N, Seattle, WA  98109",
+    "map": "https://goo.gl/maps/nWcxB41o8SC2",
+    "amenities": [
+      "Drinking fountains",
+      "Play Area"
+    ]
+  },
+  {
+    "name": "McGilvra Boulevard",
+    "url": "http://www.seattle.gov/parks/find/parks/mcgilvra-boulevard",
+    "address": "1099 McGilvra Blvd. E, Seattle, WA  98112",
+    "map": "https://goo.gl/maps/KJp99dAhJCk",
+    "amenities": [
+      "Views"
+    ]
+  },
+  {
+    "name": "Queen Anne Boulevard",
+    "url": "http://www.seattle.gov/parks/find/parks/queen-anne-boulevard",
+    "address": "Encircles Queen Anne Hill",
+    "map": "/parks/find/parks?searchType=Name&filterTerm=x63949",
+    "amenities": []
+  },
+  {
+    "name": "Queen Anne Bowl Playfield",
+    "url": "http://www.seattle.gov/parks/find/parks/queen-anne-bowl-playfield",
+    "address": "2806 3rd Ave. W, Seattle, WA  98119",
+    "map": "https://goo.gl/maps/HHYdu31wRJQ2",
+    "amenities": [
+      "Soccer Fields",
+      "Track Fields",
+      "Drinking fountains"
+    ]
+  },
+  {
+    "name": "Rainbow Point",
+    "url": "http://www.seattle.gov/parks/find/parks/rainbow-point",
+    "address": "631 NE Banner Pl., Seattle, WA  98115",
+    "map": "/parks/find/parks?searchType=Name&filterTerm=x63947",
+    "amenities": [
+      "Views"
+    ]
+  },
+  {
+    "name": "Rainier Beach Playfield",
+    "url": "http://www.seattle.gov/parks/find/parks/rainier-beach-playfield",
+    "address": "8802 Rainier Ave. S, Seattle, WA  98118",
+    "map": "https://goo.gl/maps/GPjnpmj5DYR2",
+    "amenities": [
+      "Baseball/Softball Fields",
+      "Tennis Courts",
+      "Drinking fountains",
+      "Soccer Fields",
+      "Restrooms",
+      "Play Area",
+      "Adult Fitness Equipment"
+    ]
+  },
+  {
+    "name": "Rainier Beach Urban Farm and Wetlands",
+    "url": "http://www.seattle.gov/parks/find/parks/rainier-beach-urban-farm-and-wetlands",
+    "address": "5513 S Cloverdale St, Seattle, WA 98118",
+    "map": "https://goo.gl/maps/8DgsoSWYrfS2",
+    "amenities": []
+  },
+  {
+    "name": "Rainier Place",
+    "url": "http://www.seattle.gov/parks/find/parks/rainier-place",
+    "address": "230 NW 53rd St., Seattle, WA  98107",
+    "map": "https://goo.gl/maps/xsJeGqDviGo",
+    "amenities": []
+  },
+  {
+    "name": "Rainier Playfield",
+    "url": "http://www.seattle.gov/parks/find/parks/rainier-playfield",
+    "address": "3700 S Alaska St., Seattle, WA  98118",
+    "map": "https://goo.gl/maps/uB3FsJHwLxT2",
+    "amenities": [
+      "Restrooms",
+      "Basketball Courts",
+      "Grills",
+      "Play Area",
+      "Baseball/Softball Fields",
+      "Tennis Courts",
+      "Football Fields",
+      "Drinking fountains"
+    ]
+  },
+  {
+    "name": "Ravenna Boulevard",
+    "url": "http://www.seattle.gov/parks/find/parks/ravenna-boulevard",
+    "address": "NE Ravenna Blvd to E Green Lake Way N",
+    "map": "https://goo.gl/maps/UDbzQRDnbDJ2",
+    "amenities": []
+  },
+  {
+    "name": "Ravenna Park",
+    "url": "http://www.seattle.gov/parks/find/parks/ravenna-park",
+    "address": "5520 Ravenna Ave. NE, Seattle, WA  98105",
+    "map": "https://goo.gl/maps/vsEmVMR6xNK2",
+    "amenities": [
+      "Play Area",
+      "Basketball Courts",
+      "Grills",
+      "Soccer Fields",
+      "Baseball/Softball Fields",
+      "Tennis Courts",
+      "Picnic Sites",
+      "Wading Pools",
+      "Trails",
+      "Drinking fountains",
+      "Restrooms"
+    ]
+  },
+  {
+    "name": "Ravenna Ravine",
+    "url": "http://www.seattle.gov/parks/find/parks/ravenna-ravine",
+    "address": "6215 24th Ave. NE, Seattle, WA  98115",
+    "map": "https://goo.gl/maps/N1u5yp3Hu2n",
+    "amenities": []
+  },
+  {
+    "name": "Ravenna Woods",
+    "url": "http://www.seattle.gov/parks/find/parks/ravenna-woods",
+    "address": "4633 Ravenna Ave. NE, Seattle, WA  98105",
+    "map": "https://goo.gl/maps/cEJwHeN1y8R2",
+    "amenities": []
+  },
+  {
+    "name": "Ravenna-Eckstein Park",
+    "url": "http://www.seattle.gov/parks/find/parks/ravenna-eckstein-park",
+    "address": "6535 Ravenna Ave NE, Seattle, WA  98115",
+    "map": "https://goo.gl/maps/zmqKD6H9Myj",
+    "amenities": [
+      "Play Area",
+      "Tennis Courts",
+      "Drinking fountains",
+      "Art in the Park",
+      "Soccer Fields",
+      "Basketball Courts"
+    ]
+  },
+  {
+    "name": "Regrade Park",
+    "url": "http://www.seattle.gov/parks/find/parks/regrade-park",
+    "address": "2251 3rd Ave, Seattle, WA  98121",
+    "map": "https://goo.gl/maps/gpHXdk15oqu",
+    "amenities": [
+      "Art in the Park",
+      "Dog Off Leash Areas",
+      "Drinking fountains"
+    ]
+  },
+  {
+    "name": "Riverview Playfield",
+    "url": "http://www.seattle.gov/parks/find/parks/riverview-playfield",
+    "address": "7226 12th Ave. SW, Seattle, WA  98106",
+    "map": "https://goo.gl/maps/mtuEkqHkN3y",
+    "amenities": [
+      "Trails",
+      "Football Fields",
+      "Tennis Courts",
+      "Drinking fountains",
+      "Basketball Courts",
+      "Play Area",
+      "Soccer Fields",
+      "Baseball/Softball Fields",
+      "Restrooms"
+    ]
+  },
+  {
+    "name": "Roanoke Park",
+    "url": "http://www.seattle.gov/parks/find/parks/roanoke-park",
+    "address": "950 E Roanoke St., Seattle, WA  98102",
+    "map": "https://goo.gl/maps/yHkcBRS1jxk",
+    "amenities": [
+      "Play Area"
+    ]
+  },
+  {
+    "name": "Roanoke Street Mini Park",
+    "url": "http://www.seattle.gov/parks/find/parks/roanoke-street-mini-park",
+    "address": "1 E Roanoke St., Seattle, WA  98102",
+    "map": "https://goo.gl/maps/wd386Sbmh5m",
+    "amenities": [
+      "Drinking fountains"
+    ]
+  },
+  {
+    "name": "Rogers Playground",
+    "url": "http://www.seattle.gov/parks/find/parks/rogers-playground",
+    "address": "2516 Eastlake Ave. E, Seattle, WA  98102",
+    "map": "https://goo.gl/maps/3WQEa14h44t",
+    "amenities": [
+      "Tennis Courts",
+      "Play Area",
+      "Restrooms",
+      "Baseball/Softball Fields",
+      "Drinking fountains"
+    ]
+  },
+  {
+    "name": "Ross Playground",
+    "url": "http://www.seattle.gov/parks/find/parks/ross-playground",
+    "address": "4320 4th Ave. NW, Seattle, WA  98107",
+    "map": "https://goo.gl/maps/7DezLeLTGoP2",
+    "amenities": [
+      "Baseball/Softball Fields",
+      "Play Area",
+      "Basketball Courts",
+      "Drinking fountains"
+    ]
+  },
+  {
+    "name": "Rotary Viewpoint",
+    "url": "http://www.seattle.gov/parks/find/parks/rotary-viewpoint",
+    "address": "4622 35th Ave. SW, Seattle, WA  98126",
+    "map": "https://goo.gl/maps/Jb59fKq3VDk",
+    "amenities": [
+      "Art in the Park",
+      "Views"
+    ]
+  },
+  {
+    "name": "Roxhill Park",
+    "url": "http://www.seattle.gov/parks/find/parks/roxhill-park",
+    "address": "2850 SW Roxbury St., Seattle, WA  98126",
+    "map": "https://goo.gl/maps/zjBU2UcSULQ2",
+    "amenities": [
+      "Soccer Fields",
+      "Play Area",
+      "Grills",
+      "Trails",
+      "Skate Park",
+      "Baseball/Softball Fields",
+      "Restrooms",
+      "Picnic Sites"
+    ]
+  },
+  {
+    "name": "Sacajawea Playground",
+    "url": "http://www.seattle.gov/parks/find/parks/sacajawea-playground",
+    "address": "1726 NE 94th St., Seattle, WA  98115",
+    "map": "https://goo.gl/maps/xjHtUX2WXrL2",
+    "amenities": [
+      "Play Area"
+    ]
+  },
+  {
+    "name": "Salmon Bay Park",
+    "url": "http://www.seattle.gov/parks/find/parks/salmon-bay-park",
+    "address": "2001 NW Canoe Pl., Seattle, WA  98117",
+    "map": "https://goo.gl/maps/EHxeTdxvLS82",
+    "amenities": [
+      "Restrooms",
+      "Play Area",
+      "Drinking fountains"
+    ]
+  },
+  {
+    "name": "Sam Smith Park",
+    "url": "http://www.seattle.gov/parks/find/parks/sam-smith-park",
+    "address": "1400 Martin Luther King Jr. Way S., Seattle, WA  98144",
+    "map": "https://goo.gl/maps/qdJxMLEKQaq",
+    "amenities": [
+      "Drinking fountains",
+      "Soccer Fields",
+      "Play Area",
+      "Views",
+      "Art in the Park",
+      "Adult Fitness Equipment",
+      "Tennis Courts"
+    ]
+  },
+  {
+    "name": "Sandel Playground",
+    "url": "http://www.seattle.gov/parks/find/parks/sandel-playground",
+    "address": "9053 1st Ave., NW, Seattle, WA  98117",
+    "map": "https://goo.gl/maps/6T7UPXcePBo",
+    "amenities": [
+      "Art in the Park",
+      "Wading Pools",
+      "Play Area",
+      "Basketball Courts",
+      "Drinking fountains",
+      "Restrooms"
+    ]
+  },
+  {
+    "name": "Schmitz Boulevard",
+    "url": "http://www.seattle.gov/parks/find/parks/schmitz-boulevard",
+    "address": "5717 SW Stevens St., Seattle, WA  98116",
+    "map": "https://goo.gl/maps/bffZ6iKSNyK2",
+    "amenities": []
+  },
+  {
+    "name": "Urban Triangle Park",
+    "url": "http://www.seattle.gov/parks/find/parks/urban-triangle-park",
+    "address": "2100 Westlake Avenue",
+    "map": "https://goo.gl/FsVzDQ",
+    "amenities": []
+  },
+  {
+    "name": "Union Bay Boglands",
+    "url": "http://www.seattle.gov/parks/find/parks/union-bay-boglands",
+    "address": "3905 Surber Dr NE, Seattle, WA 98105",
+    "map": "https://goo.gl/maps/7g8hy9LSt3A2",
+    "amenities": []
+  },
+  {
+    "name": "Union Station Square",
+    "url": "http://www.seattle.gov/parks/find/parks/union-station-square",
+    "address": "316 S Jackson St., Seattle, WA  98104",
+    "map": "https://goo.gl/maps/RBWr2m7m9PE2",
+    "amenities": []
+  },
+  {
+    "name": "University Circle",
+    "url": "http://www.seattle.gov/parks/find/parks/university-circle",
+    "address": "5801 University Circle NE, Seattle, WA  98105",
+    "map": "https://goo.gl/maps/wX4Zi1NmMB72",
+    "amenities": []
+  },
+  {
+    "name": "University Heights Plaza",
+    "url": "http://www.seattle.gov/parks/find/parks/university-heights-plaza",
+    "address": "5031 University Way NE, Seattle, WA, 98105",
+    "map": "https://goo.gl/maps/mNux9PcnXaA2",
+    "amenities": []
+  },
+  {
+    "name": "University Lake Shore Place",
+    "url": "http://www.seattle.gov/parks/find/parks/university-lake-shore-place",
+    "address": "4275 NE 125th St., Seattle, WA  98125",
+    "map": "https://goo.gl/maps/VSeqdGZBDcB2",
+    "amenities": []
+  },
+  {
+    "name": "University Playground",
+    "url": "http://www.seattle.gov/parks/find/parks/university-playground",
+    "address": "4745 9th Ave. NE, Seattle, WA  98105",
+    "map": "https://goo.gl/maps/6qPzTZD3xJB2",
+    "amenities": [
+      "Art in the Park",
+      "Soccer Fields",
+      "Drinking fountains",
+      "Adult Fitness Equipment",
+      "Tennis Courts",
+      "Play Area",
+      "Baseball/Softball Fields",
+      "Restrooms"
+    ]
+  },
+  {
+    "name": "Ursula Judkins Viewpoint",
+    "url": "http://www.seattle.gov/parks/find/parks/ursula-judkins-viewpoint",
+    "address": "2605 W Galer St., Seattle, WA  98199",
+    "map": "https://goo.gl/maps/UrUAQHuN2GE2",
+    "amenities": [
+      "Views"
+    ]
+  },
+  {
+    "name": "Van Asselt Playground",
+    "url": "http://www.seattle.gov/parks/find/parks/van-asselt-playground",
+    "address": "7050 Beacon Ave. S, Seattle, WA  98108",
+    "map": "https://goo.gl/maps/PqJiVARqBMz",
+    "amenities": [
+      "Soccer Fields",
+      "Wading Pools",
+      "Adult Fitness Equipment",
+      "Play Area",
+      "Basketball Courts",
+      "Restrooms",
+      "Baseball/Softball Fields",
+      "Grills",
+      "Drinking fountains",
+      "Art in the Park"
+    ]
+  },
+  {
+    "name": "Victor Steinbrueck Park",
+    "url": "http://www.seattle.gov/parks/find/parks/victor-steinbrueck-park",
+    "address": "2001 Western Ave., Seattle, WA  98121",
+    "map": "https://goo.gl/maps/665gu9iEE6F2",
+    "amenities": [
+      "Views",
+      "Art in the Park",
+      "Drinking fountains"
+    ]
+  },
+  {
+    "name": "Victory Creek Park",
+    "url": "http://www.seattle.gov/parks/find/parks/victory-creek-park",
+    "address": "1059 NE Northgate Way, Seattle, WA  98125",
+    "map": "https://goo.gl/maps/h68GHcR7qjn",
+    "amenities": [
+      "Play Area"
+    ]
+  },
+  {
+    "name": "Victory Heights Playground",
+    "url": "http://www.seattle.gov/parks/find/parks/victory-heights-playground",
+    "address": "1737 NE 106th St., Seattle, WA  98125",
+    "map": "https://goo.gl/maps/mnFek76jj4S2",
+    "amenities": [
+      "Tennis Courts",
+      "Drinking fountains",
+      "Play Area"
+    ]
+  },
+  {
+    "name": "View Ridge Playfield",
+    "url": "http://www.seattle.gov/parks/find/parks/view-ridge-playfield",
+    "address": "4408 NE 70th St., Seattle, WA  98115",
+    "map": "https://goo.gl/maps/uKothQK5zPp",
+    "amenities": [
+      "Soccer Fields",
+      "Wading Pools",
+      "Restrooms",
+      "Drinking fountains",
+      "Baseball/Softball Fields",
+      "Play Area",
+      "Basketball Courts"
+    ]
+  },
+  {
+    "name": "Viretta Park",
+    "url": "http://www.seattle.gov/parks/find/parks/viretta-park",
+    "address": "151 Lake Washington Blvd. E, Seattle, WA  98112",
+    "map": "https://goo.gl/maps/MXsKwXXcEf72",
+    "amenities": []
+  },
+  {
+    "name": "Virgil Flaim Park",
+    "url": "http://www.seattle.gov/parks/find/parks/virgil-flaim-park",
+    "address": "2700 NE 123rd St., Seattle, WA  98125",
+    "map": "https://goo.gl/maps/kZVYKPbAjxJ2",
+    "amenities": [
+      "Drinking fountains",
+      "Grills",
+      "Play Area"
+    ]
+  },
+  {
+    "name": "Volunteer Park",
+    "url": "http://www.seattle.gov/parks/find/parks/volunteer-park",
+    "address": "1247 15th Ave. E, Seattle, WA  98112",
+    "map": "https://goo.gl/maps/ikAdJgWehPq",
+    "amenities": [
+      "Restrooms",
+      "Gardens",
+      "Tennis Courts",
+      "Play Area",
+      "Art in the Park",
+      "Wading Pools",
+      "Trails",
+      "Drinking fountains"
+    ]
+  },
+  {
+    "name": "Volunteer Parkway",
+    "url": "http://www.seattle.gov/parks/find/parks/volunteer-parkway",
+    "address": "14th Ave E, E Prospect St to E Roy St",
+    "map": "https://goo.gl/maps/49PqNaDyMi12",
+    "amenities": []
+  },
+  {
+    "name": "Wallingford Playfield",
+    "url": "http://www.seattle.gov/parks/find/parks/wallingford-playfield",
+    "address": "4219 Wallingford Ave. N, Seattle, WA  98103",
+    "map": "https://goo.gl/maps/pEm1MFxhc2F2",
+    "amenities": [
+      "Drinking fountains",
+      "Soccer Fields",
+      "Restrooms",
+      "Play Area",
+      "Wading Pools",
+      "Tennis Courts"
+    ]
+  },
+  {
+    "name": "Wallingford Steps",
+    "url": "http://www.seattle.gov/parks/find/parks/wallingford-steps",
+    "address": "1800 N Northlake Way, Seattle, WA  98103",
+    "map": "https://goo.gl/maps/uoBGjuriwHF2",
+    "amenities": []
+  },
+  {
+    "name": "Walt Hundley Playfield",
+    "url": "http://www.seattle.gov/parks/find/parks/walt-hundley-playfield",
+    "address": "6920 34th Ave. SW, Seattle, WA  98126",
+    "map": "/parks/find/parks?searchType=Name&filterTerm=x64049",
+    "amenities": [
+      "Art in the Park",
+      "Baseball/Softball Fields",
+      "Grills",
+      "Tennis Courts",
+      "Soccer Fields",
+      "Restrooms",
+      "Drinking fountains",
+      "Play Area"
+    ]
+  },
+  {
+    "name": "Ward Springs Park",
+    "url": "http://www.seattle.gov/parks/find/parks/ward-springs-park",
+    "address": "4th Ave. N & Ward St., Seattle, WA  98109",
+    "map": "https://goo.gl/maps/ZTU89LwnEsR2",
+    "amenities": [
+      "Views",
+      "Play Area"
+    ]
+  },
+  {
+    "name": "Washington Park Playfield",
+    "url": "http://www.seattle.gov/parks/find/parks/washington-park-playfield",
+    "address": "1017 Lake Washington Blvd E, Seattle, WA 98112",
+    "map": "https://goo.gl/maps/yrMLzh1jdQz",
+    "amenities": [
+      "Art in the Park",
+      "Baseball/Softball Fields",
+      "Soccer Fields",
+      "Drinking fountains",
+      "Play Area",
+      "Restrooms"
+    ]
+  },
+  {
+    "name": "Washington Street Boat Landing",
+    "url": "http://www.seattle.gov/parks/find/parks/washington-street-boat-landing",
+    "address": "199 Alaskan Way S, Seattle, WA  98104",
+    "map": "https://goo.gl/maps/1xiQ22sw93L2",
+    "amenities": []
+  },
+  {
+    "name": "Waterfront Park",
+    "url": "http://www.seattle.gov/parks/find/parks/waterfront-park",
+    "address": "1401 Alaskan Way, Seattle, WA  98101",
+    "map": "https://goo.gl/maps/1W9CcT2n3XH2",
+    "amenities": [
+      "Fishing piers",
+      "Views",
+      "Drinking fountains"
+    ]
+  },
+  {
+    "name": "Watton Site",
+    "url": "http://www.seattle.gov/parks/find/parks/watton-site",
+    "address": "3823 SW Willow St, Seattle, WA 98126",
+    "map": "https://goo.gl/maps/1dVPh4G6uPA2",
+    "amenities": []
+  }
+]
